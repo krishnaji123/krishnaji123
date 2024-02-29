@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manas
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning p5 animation
+- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on facebook
 - 📫 How to reach me - Discord , Instagram , Repl
 
